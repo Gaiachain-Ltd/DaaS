@@ -1,4 +1,4 @@
-![](Mockups/0-0-0%20Splash%20screen.jpg)  
+![](Mockups/0-0-0%20Splash%20screen.jpg)
 
 ![](Mockups/0-0-1%20Login%20screen.jpg)
 
